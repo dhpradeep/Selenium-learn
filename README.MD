@@ -2,8 +2,11 @@
 
 This repository is created to learn Selenium Python automation testing, So anyone can learn from this repo and you'll find daily basis assignments. 
 If anyone wants to learn python selenium automation testing, then feel free to learn and you can make a pull request to push your code on a repo with your name.
-you can find out all the necessary files in 
+you can find out all the pre-necessary files in 
 [This secion](#pre-requirements).
+
+## Assignments
+ We'll post assignments daily. you can find out all the assignments in [/assignments](https://github.com/dhpradeep/Selenium-learn/tree/assignments) repository.
 
 ## PRE-REQUIREMENTS
 
