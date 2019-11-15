@@ -1,6 +1,6 @@
 ## **Daily Assignments**
 
-## [Day 1]()
+## Day-1
   **Task 1:**
 
   - Setup your environment in PyCharm.
@@ -23,6 +23,4 @@
   - Enter your incorrect password and submit
 
     **Output:** Error message should be shown and verify error message.
-
-
-
+##
