@@ -17,7 +17,7 @@ if len(driver.window_handles) > 1:
     #driver.find_element_by_id("identifierId").send_keys("thejune23rd@gmail.com")
     driver.find_element_by_class_name("RveJvd").click()
     driver.implicitly_wait(10)
-    driver.find_element_by_css_selector("input[name='password']").send_keys("2016@Eversoftgroup.com")
+    driver.find_element_by_css_selector("input[name='password']").send_keys("yourpassword")
     driver.find_element_by_class_name("RveJvd").click()
 
     # val = driver.find_element_by_css_selector(".J-KU.J-KU-KO.a65").get_attribute("aria-selected")
